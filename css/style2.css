@@ -1,0 +1,81 @@
+
+.all{
+    margin-left: 15%;
+    margin-right: 22%;
+}
+div.header_contanier {
+    width: 100%;
+   
+}
+.same , .same1 {
+    font-weight: 300px;
+    font-size: 16px;
+    color: rgb(129, 126, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.same{
+    text-align: left;
+}
+
+.same1{
+    text-align: center;
+}
+
+.or1 ,.or {
+    display: flex;
+    height: 220px;
+    justify-content: center;
+    
+}
+.black{
+   margin-top: 10px;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: rgb(17, 17, 17);
+   margin-left: 0px;
+}
+
+h4{
+    color: rgb(129, 126, 126);
+    text-align: right;
+    display: inline;
+}
+.line{
+    border-bottom:solid 2px #eee;
+}
+
+.or div{
+    
+    height: 180px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 8px;
+    text-align: center;
+}
+.or1 div
+{
+    background-color: rgb(17, 17, 17);
+    color: #fff;
+    height: 180px;
+    width: 180px;
+    display: inline-block;
+    margin-left: 20px;
+    text-align: center;
+    border: 5px double #eee ;
+    
+}
+
+h3{
+    padding-top:35% ;
+
+}
+div.c , .rm {
+ 
+    font-size: 15px;
+    color: orangered;
+    text-align:right ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
